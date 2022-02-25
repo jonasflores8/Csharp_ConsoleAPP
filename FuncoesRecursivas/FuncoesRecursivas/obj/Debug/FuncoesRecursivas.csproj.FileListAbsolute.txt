@@ -1,0 +1,7 @@
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\FuncoesRecursivas\FuncoesRecursivas\bin\Debug\FuncoesRecursivas.exe.config
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\FuncoesRecursivas\FuncoesRecursivas\bin\Debug\FuncoesRecursivas.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\FuncoesRecursivas\FuncoesRecursivas\bin\Debug\FuncoesRecursivas.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\FuncoesRecursivas.csprojAssemblyReference.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\FuncoesRecursivas.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\FuncoesRecursivas.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\FuncoesRecursivas.pdb

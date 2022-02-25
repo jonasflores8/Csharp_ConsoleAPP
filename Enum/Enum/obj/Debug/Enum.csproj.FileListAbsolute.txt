@@ -1,0 +1,7 @@
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Enum\Enum\bin\Debug\Enum.exe.config
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Enum\Enum\bin\Debug\Enum.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Enum\Enum\bin\Debug\Enum.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Enum\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Enum\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Enum\Enum\obj\Debug\Enum.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Enum\Enum\obj\Debug\Enum.pdb

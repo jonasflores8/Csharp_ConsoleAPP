@@ -1,0 +1,7 @@
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Funções\Funções\bin\Debug\Funções.exe.config
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Funções\Funções\bin\Debug\Funções.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Funções\Funções\bin\Debug\Funções.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Funções\Funções\obj\Debug\Funções.csprojAssemblyReference.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Funções\Funções\obj\Debug\Funções.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Funções\Funções\obj\Debug\Funções.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Funções\Funções\obj\Debug\Funções.pdb

@@ -1,0 +1,7 @@
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\switch_2\switch_2\bin\Debug\switch_2.exe.config
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\switch_2\switch_2\bin\Debug\switch_2.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\switch_2\switch_2\bin\Debug\switch_2.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\switch_2\switch_2\obj\Debug\switch_2.csprojAssemblyReference.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\switch_2\switch_2\obj\Debug\switch_2.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\switch_2\switch_2\obj\Debug\switch_2.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\switch_2\switch_2\obj\Debug\switch_2.pdb

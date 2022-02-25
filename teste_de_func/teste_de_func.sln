@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teste_de_func", "teste_de_func\teste_de_func.csproj", "{96D94FC1-11B4-4C30-8B8C-D13F5D2EAE2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D94FC1-11B4-4C30-8B8C-D13F5D2EAE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D94FC1-11B4-4C30-8B8C-D13F5D2EAE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D94FC1-11B4-4C30-8B8C-D13F5D2EAE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D94FC1-11B4-4C30-8B8C-D13F5D2EAE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A861AD70-2884-4A9D-9900-9FF91C3B62EC}
+	EndGlobalSection
+EndGlobal

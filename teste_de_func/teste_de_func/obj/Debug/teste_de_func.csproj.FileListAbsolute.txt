@@ -1,0 +1,7 @@
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\teste_de_func\teste_de_func\bin\Debug\teste_de_func.exe.config
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\teste_de_func\teste_de_func\bin\Debug\teste_de_func.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\teste_de_func\teste_de_func\bin\Debug\teste_de_func.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\teste_de_func\teste_de_func\obj\Debug\teste_de_func.csprojAssemblyReference.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\teste_de_func\teste_de_func\obj\Debug\teste_de_func.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\teste_de_func\teste_de_func\obj\Debug\teste_de_func.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\teste_de_func\teste_de_func\obj\Debug\teste_de_func.pdb

@@ -1,0 +1,7 @@
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\Foreach_Sort_Collection\Foreach_Sort_Collection\bin\Debug\Foreach_Sort_Collection.exe.config
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\Foreach_Sort_Collection\Foreach_Sort_Collection\bin\Debug\Foreach_Sort_Collection.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\Foreach_Sort_Collection\Foreach_Sort_Collection\bin\Debug\Foreach_Sort_Collection.pdb
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\Foreach_Sort_Collection\Foreach_Sort_Collection\obj\Debug\Foreach_Sort_Collection.csprojAssemblyReference.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\Foreach_Sort_Collection\Foreach_Sort_Collection\obj\Debug\Foreach_Sort_Collection.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\Foreach_Sort_Collection\Foreach_Sort_Collection\obj\Debug\Foreach_Sort_Collection.exe
+C:\Users\jonas\OneDrive\Área de Trabalho\Estudos\C#\Console\Foreach_Sort_Collection\Foreach_Sort_Collection\obj\Debug\Foreach_Sort_Collection.pdb
